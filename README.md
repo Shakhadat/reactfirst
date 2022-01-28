@@ -3,5 +3,9 @@
 3. yarn start-> npm start (chunki start defalt scriptda yozganmiz)
 4. yarn build-> npm run build 
 
-main entry file(browser);
+    main entry file(browser);
 main entry index.js
+
+    React
+    1. props-> aka(HTML attributes);
+
