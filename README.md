@@ -9,3 +9,13 @@ main entry index.js
     React
     1. props-> aka(HTML attributes);
 
+
+    React.createElement()
+
+...
+React.createElement(
+    type,->DOM element
+    [props],->HTML att.
+    [...children]-> textContent, Dom
+    
+)
